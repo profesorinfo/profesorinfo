@@ -4,7 +4,7 @@ He creado esta cuenta en Github, aunque en realidad la que utilizo es la de [iha
 
 ## Espera ¿ihavenomouth?
 
-Bueno, sí. ¿Pero por qué? Primero porque en tiempos de barrapunto los comentarios anónimos los firmaba el usuario *Pobrecito hablador* en un más que evidente homenaje a [Larra] (https://es.wikipedia.org/wiki/Mariano_Jos%C3%A9_de_Larra). Barrapunto fue durante mucho tiempo un punto de encuentro para los informáticos.
+Bueno, sí. ¿Pero por qué? Primero porque en tiempos de barrapunto los comentarios anónimos los firmaba el usuario *Pobrecito hablador* en un más que evidente homenaje a [Larra](https://es.wikipedia.org/wiki/Mariano_Jos%C3%A9_de_Larra). Barrapunto fue durante mucho tiempo un punto de encuentro para los informáticos.
 
 *Eso está muy bien, ¿pero qué tiene que ver contigo?*
 
